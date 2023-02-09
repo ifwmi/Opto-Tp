@@ -1,0 +1,15 @@
+{
+  "All": [
+    {
+      "id": 1,
+      "FULL_NAME": "Иванов Иван Иванович Карта пациента",
+      "Age": "26 лет",
+      "Bite": "Cмешанный",
+      "Clinic": "Клиника",
+      "Start_date": "20.03.2022",
+      "Stage_of_treatment": "Диагностика",
+      "Date_the_card_was_created": "20.03.2022",
+      "Date_of_last_visit": "20.03.2022"
+    }
+  ]
+}
